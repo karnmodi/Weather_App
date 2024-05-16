@@ -21,6 +21,7 @@ import com.google.android.material.textfield.TextInputEditText;
     private RecyclerView weatherRV;
     private TextInputEditText cityEdt ;
     private ImageView backIV, iconIV, searchIV;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

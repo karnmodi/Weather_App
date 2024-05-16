@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Coding/Java/Adnroid Studio/app/src/main/res/drawable/card_back.xml" value="0.237" />
         <entry key="..\:/Coding/Java/Adnroid Studio/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Coding/Java/Adnroid Studio/app/src/main/res/layout/weather_rv_icon.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
